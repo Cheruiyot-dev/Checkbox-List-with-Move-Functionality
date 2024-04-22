@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -29,7 +29,7 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-=======
+
 # Checkbox-List-with-Move-Functionality
 This is a React application built with TypeScript and styled using Tailwind CSS. It allows you to manage two lists of items, where you can check and uncheck items, and move checked items from one list to the other
 #Features
@@ -38,4 +38,4 @@ Check/uncheck items in the Left list
 Move checked items from the Left list to the Right list
 Move checked items from the Right list back to the Left list
 Responsive design using Tailwind CSS
->>>>>>> 0788d2744861c0187305c63e904cbfbaddc9c49d
+
