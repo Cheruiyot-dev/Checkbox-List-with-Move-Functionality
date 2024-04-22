@@ -35,9 +35,13 @@ This is a React application built with TypeScript and styled using Tailwind CSS.
 
 #Features
 
-Two lists: Left and Right
-Check/uncheck items in the Left list
-Move checked items from the Left list to the Right list
-Move checked items from the Right list back to the Left list
-Responsive design using Tailwind CSS
+.Two lists: Left and Right
+
+.Check/uncheck items in the Left list
+
+.Move checked items from the Left list to the Right list
+
+.Move checked items from the Right list back to the Left list
+
+.Responsive design using Tailwind CSS
 
